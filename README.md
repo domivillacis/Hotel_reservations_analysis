@@ -44,10 +44,10 @@ Tableau
 
 ### Contributors
 
-Sausana Abraham (https://github.com/Sausana)
+[Sausana Abraham](https://github.com/Sausana)
 
-Bernardino Echeverria (https://github.com/bernardinoe)
+[Bernardino Echeverria](https://github.com/bernardinoe)
 
-Sugandha Singh (https://github.com/sugandha001)
+[Sugandha Singh](https://github.com/sugandha001)
 
-Dominique Villacis (https://github.com/domivillacis)
+[Dominique Villacis](https://github.com/domivillacis)
