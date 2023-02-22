@@ -11,14 +11,16 @@ We are going to divide this project into three segments:
 
 For this first segment, we have chosen a few questions that we would like to answer with our analysis:
 
+- What's the average price per room?
+- What's the average room price per month?
 - Do longer total stays have lower average prices?
-- What's the average daily rate? (This question we should chnage it instead to: whats the average price per room) answered
-- What's the average room price per month for each year? The idea is to answer Avg price throughout the year (2017-2018) and plot it
-- What is the busiest month? answered
+- What's the average daily rate?
+- What is the busiest month?
 - Which time of the year has the longest reservations?
 - Which months have more reservations with children?
 - Which months include more reservations with weekends?
 - From which segment do reservations come the most?
+- Can you predict if the customer is going to make a reservation online?
 
 Based on the questions, we have worked on the project foundation, which means cleaning the data and performing an EDA (Explanatory Data Analysis).
 
@@ -26,7 +28,7 @@ Additionally, we created a repository on GitHub, where each team member created 
 
 Finally, we work on the creation of a database and machine learning provisional model to make predictions based on the analysis.
 
-We decided to choose the Hotel Rservations data set because it focuses on the behavior of customers when making reservations. The data set has 36,275 data points and 19 features.
+We decided to choose the Hotel Reservations data set because it focuses on the behavior of customers when making reservations. The data set has 36,275 data points and 19 features.
 
 To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
