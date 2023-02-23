@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-We are a group of data analysts, curious about analysing customer behavior when making hotel reservations for the hospitality industry.
+We are a group of data analysts, curious to analyse customer behavior when making hotel reservations for the hospitality industry in the pre-Covid years.
 For this reason, we've decided to join this project to analyse the trends of hotel reservations, what type of travelers make the most reservations (solo travelers, business or families), costs, if there are special requests from customers or any other interesting find.
 
 We are going to divide this project into three segments:
@@ -22,15 +22,19 @@ For this first segment, we have chosen a few questions that we would like to ans
 - From which segment do reservations come the most?
 - Can you predict if the customer is going to make a reservation online?
 
-Based on the questions, we have worked on the project foundation, which means cleaning the data and performing an EDA (Explanatory Data Analysis).
+Based on the questions, we have worked on the project foundation, which means cleaning the data and performing EDA (Explanatory Data Analysis).
 
 Additionally, we created a repository on GitHub, where each team member created their own branch to contribute to the analysis.
 
 Finally, we work on the creation of a database and machine learning provisional model to make predictions based on the analysis.
 
-We decided to choose the Hotel Reservations data set because it focuses on the behavior of customers when making reservations. The data set has 36,275 data points and 19 features.
+We chose the Hotel Reservations data set because it focuses on customer behaviour when making reservations and will help us understand what can be done to keep the hotel industry growing. The data set has 36,275 data points and 19 features.
 
 To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
+
+### Segment 2:
+
+### Segment 3:
 
 ### - Plans for future work: 
 
@@ -42,7 +46,7 @@ Python/Pandas/Sklearn
 
 PostgreSQL
 
-Tableau
+Microsoft Power Point
 
 ### Contributors
 
