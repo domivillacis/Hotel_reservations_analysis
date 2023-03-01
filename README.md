@@ -32,7 +32,18 @@ We chose the Hotel Reservations data set because it focuses on customer behaviou
 
 To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
+
+
+
 ### Segment 2:
+Once we normalized the data, we explored several classifiers:
+
+Logistic regression
+Decision Tree
+Random Forest Model
+SVM
+
+Our machine learning models were run with varying percentages of train and test data, ranging from a 75/25 split to 80/20. Our results ranged from 80% to 89%, the highest being from the Random Forest Model and Decision Tree model. We are  happy with our 89% scores as Random forest and Decision trees perform well with respect to accuracy.
 
 ### Segment 3:
 
