@@ -40,13 +40,13 @@ To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel
 
 Based on our analysis, the average price per room is $103.42, which we consider competitive for this industry, and a competitive room rate can guarantee at least 65-80% occupancy.
 
-image
+![average](https://user-images.githubusercontent.com/112814924/222591273-f9c4263d-7cc4-48ad-ab44-00820774d9c8.png)
 
 We can also see that the busiest month was October 2018 and most of the customers made their reservations online.
 
-image
+![busiest](https://user-images.githubusercontent.com/112814924/222591364-a8d3725f-4235-4eab-a142-50cf78615ddd.png)
 
-image
+![segment](https://user-images.githubusercontent.com/112814924/222591441-6bffac4e-2322-460f-8f20-39b0efe45c3d.png)
 
 After explanatory data analysis, we pre-processed the data and selected "booking_status" as the dependent variable. We work on different machine learning models to predict whether or not the customer will confirm the reservation and compare which model delivered results that add value to the analysis.
 
@@ -61,10 +61,9 @@ Models:
 
 Our machine learning models were run with varying percentages of training and test data, ranging from 78% for the logistic regression model, which is the lowest accuracy score, to 89% for the Random Forest model, which is highest accuracy score.
 
-image 
+<img width="430" alt="Screenshot 2023-02-28 at 23 26 48" src="https://user-images.githubusercontent.com/112814924/222591513-8a6e1355-3673-48c3-86d1-4083c408033e.png">
 
-image
-
+<img width="430" alt="Screenshot 2023-03-02 at 18 38 29" src="https://user-images.githubusercontent.com/112814924/222591560-7be2b16b-e59a-4265-bd87-3de8b9ad974f.png">
 
 ### Segment 3:
 
