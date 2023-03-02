@@ -23,6 +23,7 @@ For this first segment, we have chosen a few questions that we would like to ans
 - Which months have more reservations with children?
 - Which months include more reservations with weekends?
 - From which segment do reservations come the most?
+- Does a long wait time lead to more cancellations?
 - Can you predict if the customer is going to confirm the reservation or not?
 
 Based on the questions, we have worked on the project foundation, which means cleaning the data and performing EDA (Explanatory Data Analysis).
@@ -37,17 +38,32 @@ To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel
 
 ### Segment 2:
 
-Once we normalized the data, we explored several classifiers:
+Based on our analysis, the average price per room is $103.42, which we consider competitive for this industry, and a competitive room rate can guarantee at least 65-80% occupancy.
 
-Logistic regression
-Decision Tree
-Random Forest Model
-SVM
+image
 
-Our machine learning models were run with varying percentages of train and test data, ranging from a 75/25 split to 80/20. Our results ranged from 80% to 89%, the highest being from the Random Forest Model and Decision Tree model. We are  happy with our 89% scores as Random forest and Decision trees perform well with respect to accuracy.
+We can also see that the busiest month was October 2018 and most of the customers made their reservations online.
+
+image
+
+image
+
+After explanatory data analysis, we pre-processed the data and selected "booking_status" as the dependent variable. We work on different machine learning models to predict whether or not the customer will confirm the reservation and compare which model delivered results that add value to the analysis.
+
+Models:
+
+- Logistic Regression
+- Random Forest
+- SVM (Support Vector Machine)
+- Decision Tree
 
 ### Results
 
+Our machine learning models were run with varying percentages of training and test data, ranging from 78% for the logistic regression model, which is the lowest accuracy score, to 89% for the Random Forest model, which is highest accuracy score.
+
+image 
+
+image
 
 
 ### Segment 3:
