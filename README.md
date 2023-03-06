@@ -70,6 +70,7 @@ Our machine learning models were run with varying percentages of training and te
 ### - Plans for future work: 
 
 For segment 3 we are going to work in our interactive dashboard to have better visualisations of our project.
+We used Tableau for interactive dashword and it can be accessed from https://public.tableau.com/views/HotelReservations_16776287090500/AnalysisofHotelReservationtrends?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Technologies
 
