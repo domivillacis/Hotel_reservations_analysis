@@ -23,7 +23,7 @@ For this first segment, we have chosen a few questions that we would like to ans
 - Which months have more reservations with children?
 - Which months include more reservations with weekends?
 - From which segment do reservations come the most?
-- Does a long wait time lead to more cancellations?
+- Does a long lead time result in less cancellations?
 - Can you predict if the customer is going to confirm the reservation or not?
 
 Based on the questions, we have worked on the project foundation, which means cleaning the data and performing EDA (Explanatory Data Analysis).
@@ -35,6 +35,8 @@ Finally, we work on the creation of a database and machine learning provisional 
 We chose the Hotel Reservations data set because it focuses on customer behaviour when making reservations and will help us understand what can be done to keep the hotel industry growing. The data set has 36,275 data points and 19 features.
 
 To view our data set, [click here](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
+
+## Results
 
 ### Segment 2:
 
@@ -57,29 +59,33 @@ Models:
 - SVM (Support Vector Machine)
 - Decision Tree
 
-### Results
-
-Our machine learning models were run with varying percentages of training and test data, ranging from 78% for the logistic regression model, which is the lowest accuracy score, to 89% for the Random Forest model, which is highest accuracy score.
+Our machine learning models were run with varying percentages of training and test data, ranging from 78% for the logistic regression model, which is the lowest accuracy score, to 89% for the Random Forest model, which is the highest accuracy score in our analysis.
 
 <img width="430" alt="Screenshot 2023-02-28 at 23 26 48" src="https://user-images.githubusercontent.com/112814924/222591513-8a6e1355-3673-48c3-86d1-4083c408033e.png">
 
+
 <img width="430" alt="Screenshot 2023-03-02 at 18 38 29" src="https://user-images.githubusercontent.com/112814924/222591560-7be2b16b-e59a-4265-bd87-3de8b9ad974f.png">
+
+## Summary
 
 ### Segment 3:
 
-### - Plans for future work: 
+After our analysis and machine learning models, we have created some visualisations and recommendations for our customer.
 
-For segment 3 we are going to work in our interactive dashboard to have better visualisations of our project.
+To view the visualisations, [click here](https://public.tableau.com/app/profile/dominique.villacis/viz/Hotel_reservations/Analysis?publish=yes)
+
 
 ## Technologies
 
 Python/Pandas/Sklearn
 
-PostgreSQL
+PostgreSQL/AWS
 
 Tableau
 
 Microsoft Power Point
+
+Google Slides
 
 ### Contributors
 
