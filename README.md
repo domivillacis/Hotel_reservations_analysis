@@ -14,19 +14,17 @@ We are going to divide this project into three segments:
 
 For this first segment, we have chosen a few questions that we would like to answer with our analysis:
 
-- What's the average price per room?
-- What's the average room price per month?
+- What's the average price? (Per day, per month)
 - Do longer total stays have lower average prices?
-- What's the average daily rate?
 - What is the busiest month?
 - Which time of the year has the longest reservations?
-- Which months have more reservations with children?
+- Which months have more reservations with children? 
 - Which months include more reservations with weekends?
 - From which segment do reservations come the most?
-- Does a long lead time result in less cancellations?
+- Does a longer lead time result in less cancellations?
 - Can you predict if the customer is going to confirm the reservation or not?
 
-Based on the questions, we have worked on the project foundation, which means cleaning the data and performing EDA (Explanatory Data Analysis).
+Based on the questions, we have worked on the project foundation, which means cleaning the data and performing EDA (Exploratory Data Analysis).
 
 Additionally, we created a repository on GitHub, where each team member created their own branch to contribute to the analysis.
 
@@ -50,7 +48,7 @@ We can also see that the busiest month was October 2018 and most of the customer
 
 ![segment](https://user-images.githubusercontent.com/112814924/222591441-6bffac4e-2322-460f-8f20-39b0efe45c3d.png)
 
-After explanatory data analysis, we pre-processed the data and selected "booking_status" as the dependent variable. We work on different machine learning models to predict whether or not the customer will confirm the reservation and compare which model delivered results that add value to the analysis.
+After exploratory data analysis, we pre-processed the data and selected "booking_status" as the dependent variable. We work on different machine learning models to predict whether or not the customer will confirm the reservation and compare which model delivered results that add value to the analysis.
 
 Models:
 
@@ -70,10 +68,21 @@ Our machine learning models were run with varying percentages of training and te
 
 ### Segment 3:
 
-After our analysis and machine learning models, we have created some visualisations and recommendations for our customer.
+After our analysis, we can conclude that the hotel does not necessarily need to give special pricing or give discounts for longer stays to be competitive.
+
+We have created and interactive dashboard, so we can make comparisons and filter the data between year 2017 and 2018.
 
 To view the visualisations, [click here](https://public.tableau.com/app/profile/dominique.villacis/viz/Hotel_reservations/Analysis?publish=yes)
 
+https://user-images.githubusercontent.com/112814924/223928951-c395778c-bb28-4467-9a9d-224f5fdf38c5.mov
+
+### Recommendations
+
+- Since October is the busiest month, our recommendation is to increase the average room price for that month to increase hotel profits.
+- Increase marketing efforts for offline, corporate and aviation segments, as they are significantly lower than online sales.
+- In order to reduce cancellations with longer lead time and to avoid unoccupied rooms, the hotel should implement a stricter cancellation policy.
+- We recommend creating packages for families to stay over the weekend on non-peak travel times.
+- Promote the winter months by partnering with trade shows and hosting corporate events to increase hotel bookings.
 
 ## Technologies
 
