@@ -68,9 +68,15 @@ Our machine learning models were run with varying percentages of training and te
 
 ### Segment 3:
 
-After our analysis, we can conclude that the hotel does not necessarily need to give special pricing or give discounts for longer stays to be competitive.
+To have a better access and to store our data set, we have created a database that has been connected to Amazon Web Services, that will allow us to have our data in the cloud.
 
-We have created and interactive dashboard, so we can make comparisons and filter the data between year 2017 and 2018.
+![projectdb AWS](https://user-images.githubusercontent.com/112814924/224185837-c8f9a121-d980-4e4d-9673-19a6a686c61a.png)
+
+We also created tables to hold all our data.
+
+<img width="958" alt="Project AWS table" src="https://user-images.githubusercontent.com/112814924/224185854-9cb2a5d8-6feb-484c-86d7-96173978a2dd.png">
+
+Finally, we created an interactive dashboard, so we can make comparisons and filter the data between year 2017 and 2018.
 
 To view the visualisations, [click here](https://public.tableau.com/app/profile/dominique.villacis/viz/Hotel_reservations/Analysis?publish=yes)
 
