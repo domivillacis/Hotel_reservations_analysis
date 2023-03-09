@@ -74,7 +74,7 @@ We have created and interactive dashboard, so we can make comparisons and filter
 
 To view the visualisations, [click here](https://public.tableau.com/app/profile/dominique.villacis/viz/Hotel_reservations/Analysis?publish=yes)
 
-[label](../../Screen%20Recording%202023-03-08%20at%2023.48.32.mov)
+https://user-images.githubusercontent.com/112814924/223928951-c395778c-bb28-4467-9a9d-224f5fdf38c5.mov
 
 ### Recommendations
 
